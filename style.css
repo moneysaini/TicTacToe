@@ -116,3 +116,10 @@ nav ul{
         grid-template-columns: repeat(3, 20vw);
     }
 }
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
